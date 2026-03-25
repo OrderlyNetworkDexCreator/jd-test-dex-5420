@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "this is Vanta perpdex test site",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap,Points",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap,Points,Rewards",
   "VITE_CUSTOM_MENUS": "Genusis Airdrop, https://updownfun.win; AI Monitor, https://www.worldmonitor.app/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
